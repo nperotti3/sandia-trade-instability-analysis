@@ -78,6 +78,29 @@ This project investigates whether statistical and machine learning approaches ca
 The analysis identified measurable shifts in trade behavior associated with major global disruptions and demonstrated the value of structural break detection techniques for understanding supply chain instability and recovery patterns.
 
 ---
+## Key Visualizations
+
+### Cross-Country Structural Break Detection (CUSUM Analysis)
+
+![CUSUM Analysis](cusum-analysis.PNG)
+
+This analysis identifies structural changes in international trade behavior and highlights disruption periods across countries.
+
+---
+
+### Propagation of Abnormal Trade Events
+
+![Propagation Analysis](propagation-analysis.PNG)
+
+This visualization illustrates how disruption effects propagate across trading partners during major global events.
+
+---
+
+### Severity of Abnormal Trade Events
+
+![Severity Analysis](severity-analysis.PNG)
+
+Z-score analysis was used to evaluate the intensity and persistence of abnormal trade events across countries.
 
 ## Practicum Partner
 
